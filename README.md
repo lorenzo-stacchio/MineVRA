@@ -6,7 +6,7 @@
 
 [Lorenzo Stacchio](https://scholar.google.com/citations?user=oHkM91kAAAAJ&hl=it&oi=ao), [Emanuele Balloni](https://scholar.google.com/citations?user=Gdc9J8cAAAAJ&hl=it&oi=ao), [Marina Paolanti](https://scholar.google.com/citations?user=Q_16CysAAAAJ&hl=it&oi=ao), [Emanuele Frontoni](https://scholar.google.com/citations?user=Vgi8nAcAAAAJ&hl=it&oi=ao), [Primo Zingaretti](https://scholar.google.com/citations?user=OyVw6a0AAAAJ&hl=it&oi=ao),  [Roberto Pierdicca](https://scholar.google.com/citations?user=1GPfKqEAAAAJ&hl=it&oi=ao).
 
-[[`Paper`](https://www.researchgate.net/publication/388068397_MineVRA_Exploring_the_Role_of_Generative_AI-Driven_Content_Development_in_XR_Environments_through_a_Context-Aware_Approach)] [[`Project Page`](https://lorenzo-stacchio.github.io/MINEVRA/)] [[`Reference`](#reference)] [[`Video`](https://youtu.be/9dUUYXrRMik)]
+[[`Paper`](https://www.researchgate.net/publication/388068397_MineVRA_Exploring_the_Role_of_Generative_AI-Driven_Content_Development_in_XR_Environments_through_a_Context-Aware_Approach)] [[`Project Page`](https://lorenzo-stacchio.github.io/MineVRA/)] [[`Reference`](#reference)] [[`Video`](https://youtu.be/9dUUYXrRMik)]
 
 
 <p align="center">
